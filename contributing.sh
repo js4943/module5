@@ -6,3 +6,6 @@ echo "Thanks for contributing, $PERSON!"
 
 echo "Contributor:"
 echo "Garry Ancheta"
+
+echo "Contributor:"
+echo "Logan Samstag"
